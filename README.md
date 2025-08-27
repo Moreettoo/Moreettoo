@@ -1,9 +1,11 @@
 <div align="center">
-  <div style="color:#c9d1d9; font-size: 2em; font-weight: bold; margin-bottom: 10px;">
+  <!-- Título principal -->
+  <div style="color:#c9d1d9; font-size: 3em; font-weight: bold; margin-bottom: 10px;">
     Enzo Moretto
   </div>
 
-  <p style="color:#8b949e; font-style: italic; font-size: 18px; margin: 0 0 20px 0;">
+  <!-- Subtítulo com opacidade menor -->
+  <p style="color:#8b949e; font-style: italic; font-size: 18px; opacity: 0.7; margin: 0 0 20px 0;">
     Bem-vindo ao meu laboratório de testes 🧪
   </p>
 
@@ -12,6 +14,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Backend&font=Fira%20Code&center=true&width=440&height=45&color=c9d1d9&vCenter=true&pause=1000&size=22&back=true" />
   </a>
 
+  <!-- Links sociais -->
   <p style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/enzomorettoo/">
       <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
@@ -29,11 +32,13 @@
 
   <hr style="margin: 20px 0; border: 0.5px solid #444"/>
 
-  <div style="color:#c9d1d9; font-size:1.5em; font-weight:bold; margin-bottom:10px;">
+  <!-- Seção Linguagens -->
+  <div style="color:#c9d1d9; font-size:1.5em; font-weight:bold; margin-bottom: 20px;">
     Linguagens e Tecnologias
   </div>
 
-  <p>
+  <!-- Espaço extra antes das imagens -->
+  <p style="margin-top: 10px;">
     <img alt="Java" title="Java" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     <img alt="Python" title="Python" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img alt="Spring" title="Spring" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
