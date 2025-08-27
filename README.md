@@ -1,10 +1,8 @@
 <h1 align="center" style="color:#c9d1d9;">Enzo Moretto</h1>
 
-
 <p align="center" style="color:#8b949e; font-style: italic; font-size: 18px;">
   Bem-vindo ao meu laboratório de testes 🧪
 </p>
-
 
 <p align="center">
   <!-- Typing SVG estilo terminal, digitando e apagando, cor visível em todos os temas -->
@@ -12,8 +10,6 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Backend&font=Fira%20Code&center=true&width=440&height=45&color=c9d1d9&vCenter=true&pause=1000&size=22&back=true" />
   </a>
 </p>
-
-
 
 <p align="center">
     <a href="https://www.linkedin.com/in/enzomorettoo/">
@@ -46,73 +42,24 @@
     </a>
 </p>
 
----
+<hr style="border: 1px solid #30363d; margin: 30px 0;">
 
-##   Linguagens e Tecnologias
+<h2 align="center">Linguagens e Tecnologias</h2>
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="40px" 
-    style="padding-right: 15px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring" 
-    title="Spring"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Node.js" 
-    title="Node.js"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="40px" 
-    style="padding-right: 15px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
+<p align="center">
+  <img alt="Java" title="Java" width="40px" style="margin:0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+  <img alt="Python" title="Python" width="40px" style="margin:0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+  <img alt="Spring" title="Spring" width="40px" style="margin:0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
+  <img alt="JavaScript" title="JavaScript" width="40px" style="margin:0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/>
+  <img alt="Node.js" title="Node.js" width="40px" style="margin:0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
+  <img alt="Git" title="Git" width="40px" style="margin:0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="MySQL" title="MySQL" width="40px" style="margin:0 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+</p>
 
-
-<br/>
-<br/>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
