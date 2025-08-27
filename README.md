@@ -49,7 +49,7 @@
 ---
 
 ##   Linguagens e Tecnologias
-<br/>
+
 <img 
     align="left" 
     alt="Java" 
