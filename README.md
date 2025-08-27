@@ -42,8 +42,6 @@
     </a>
 </p>
 
-<hr style="border: 1px solid #30363d; margin: 30px 0;">
-
 <h2 align="center">Linguagens e Tecnologias</h2>
 
 <p align="center">
