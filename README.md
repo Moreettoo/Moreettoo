@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Título principal aumentado -->
-  <div style="color:#c9d1d9; font-size: 3em; font-weight: bold; margin-bottom: 15px;">
+  <div style="color:#c9d1d9; font-size: 10em; font-weight: bold; margin-bottom: 15px;">
     Enzo Moretto
   </div>
 
