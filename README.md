@@ -42,6 +42,9 @@
     </a>
 </p>
 
+<!-- espaçamento no lugar da linha -->
+<div style="height:30px;"></div>
+
 <h2 align="center">Linguagens e Tecnologias</h2>
 
 <p align="center">
