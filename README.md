@@ -1,20 +1,14 @@
-<h1 align="center" style="color:#c9d1d9;">Enzo Moretto</h1>
-
+<h1 align="center" style="color:#c9d1d9; font-size: 3em;">Enzo Moretto</h1>
 
 <p align="center" style="color:#8b949e; font-style: italic; font-size: 18px;">
   Bem-vindo ao meu laboratório de testes 🧪
 </p>
 
-
 <p align="center">
-  <!-- Typing SVG estilo terminal, digitando e apagando, cor visível em todos os temas -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Backend&font=Fira%20Code&center=true&width=440&height=45&color=c9d1d9&vCenter=true&pause=1000&size=22&back=true" />
   </a>
 </p>
-
-
-
 
 <p align="center">
     <a href="https://www.linkedin.com/in/enzomorettoo/">
@@ -47,11 +41,9 @@
     </a>
 </p>
 
-
-
-<h3 align="center" style="color:#c9d1d9;">Linguagens e Tecnologias</h3>
-
 ---
+
+<h3 align="left" style="color:#c9d1d9; font-size: 3em;">Linguagens e Tecnologias</h3>
 
 <img 
     align="left" 
@@ -111,11 +103,12 @@
 />
 
 
-<br/>
-<br/>
+<br/><br/>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg">
-</picture>
+<p align="left">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
