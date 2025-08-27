@@ -1,17 +1,22 @@
 <div align="center">
 
-  <h1 style="color:#c9d1d9;">Enzo Moretto</h1>
+  <!-- Nome -->
+  <div style="font-size: 42px; font-weight: bold; color:#c9d1d9; margin-bottom: 5px;">
+    Enzo Moretto
+  </div>
 
-  <p style="color:#8b949e; font-style: italic; font-size: 18px;">
+  <!-- Subtítulo -->
+  <div style="color:#8b949e; font-style: italic; font-size: 18px; margin-bottom: 15px;">
     Bem-vindo ao meu laboratório de testes 🧪
-  </p>
+  </div>
 
-  <!-- Typing SVG estilo terminal -->
+  <!-- Typing SVG -->
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor%20Backend&font=Fira%20Code&center=true&width=440&height=45&color=c9d1d9&vCenter=true&pause=1000&size=22&back=true" />
   </a>
 
-  <p>
+  <!-- Contatos -->
+  <div style="margin-top: 20px;">
     <a href="https://www.linkedin.com/in/enzomorettoo/">
       <img 
         alt="LinkedIn" 
@@ -40,13 +45,17 @@
         src="https://custom-icon-badges.demolab.com/github/followers/Moreettoo?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
       />
     </a>
-  </p>
+  </div>
 
-  <hr style="margin: 20px 0; border: 0.5px solid #444"/>
+  <!-- Separador -->
+  <div style="margin: 30px 0; height: 1px; background-color: #444; width: 80%;"></div>
 
-  <h2>Linguagens e Tecnologias</h2>
+  <!-- Linguagens e Tecnologias -->
+  <div style="font-size: 28px; font-weight: bold; color:#c9d1d9; margin-bottom: 15px;">
+    Linguagens e Tecnologias
+  </div>
 
-  <p>
+  <div>
     <img alt="Java" title="Java" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     <img alt="Python" title="Python" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img alt="Spring" title="Spring" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
@@ -54,13 +63,15 @@
     <img alt="Node.js" title="Node.js" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
     <img alt="Git" title="Git" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
     <img alt="MySQL" title="MySQL" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-  </p>
+  </div>
 
-  <!-- Github contribution grid -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg" style="margin-top: 20px;">
-  </picture>
+  <!-- Github Contribution Grid -->
+  <div style="margin-top: 30px;">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake-dark.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/fabiuladorafael/fabiuladorafael/output/github-contribution-grid-snake.svg">
+    </picture>
+  </div>
 
 </div>
