@@ -1,11 +1,11 @@
 <div align="center">
-  <!-- Título principal -->
-  <div style="color:#c9d1d9; font-size: 3em; font-weight: bold; margin-bottom: 10px;">
+  <!-- Título principal aumentado -->
+  <div style="color:#c9d1d9; font-size: 3em; font-weight: bold; margin-bottom: 15px;">
     Enzo Moretto
   </div>
 
-  <!-- Subtítulo com opacidade menor -->
-  <p style="color:#8b949e; font-style: italic; font-size: 18px; opacity: 0.7; margin: 0 0 20px 0;">
+  <!-- Subtítulo em itálico com menor opacidade -->
+  <p style="color:#8b949e; font-style: italic; font-size: 18px; opacity: 0.6; margin: 0 0 25px 0;">
     Bem-vindo ao meu laboratório de testes 🧪
   </p>
 
@@ -33,12 +33,12 @@
   <hr style="margin: 20px 0; border: 0.5px solid #444"/>
 
   <!-- Seção Linguagens -->
-  <div style="color:#c9d1d9; font-size:1.5em; font-weight:bold; margin-bottom: 20px;">
+  <div style="color:#c9d1d9; font-size:1.5em; font-weight:bold; margin-bottom: 15px;">
     Linguagens e Tecnologias
   </div>
 
-  <!-- Espaço extra antes das imagens -->
-  <p style="margin-top: 10px;">
+  <!-- Espaçamento extra entre título e imagens -->
+  <p style="margin-top: 15px;">
     <img alt="Java" title="Java" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
     <img alt="Python" title="Python" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
     <img alt="Spring" title="Spring" width="40px" style="margin:5px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg"/>
